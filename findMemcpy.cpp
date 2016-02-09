@@ -34,7 +34,6 @@
 #include <ida.hpp>
 #include <idp.hpp>
 #include <loader.hpp>
-#include <allins.hpp>
 #include <intel.hpp>
 
 #define NODE_COUNT -1
